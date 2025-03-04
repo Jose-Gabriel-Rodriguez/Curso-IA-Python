@@ -14,3 +14,15 @@
 - Árboles de Decisión y RandomForest
 - Visualización con gráficos 2D y 3D.
 - Evaluación y selección de modelos
+### 4. Regresión
+- Implementación de Modelos de Regresión
+- Regresión Lineal.
+- Regresión Lineal Múltiple.
+### 5. Evaluación de Modelos de Regresión
+- Métricas: MSE, RMSE, R².
+- Validación cruzada para regresión.
+### 6. Optimización de Modelos
+### 7. Reducción de Dimensionalidad
+- Importancia de la reducción de dimensiones en IA.
+- PCA (Análisis de Componentes Principales): teoría y aplicación.
+- Interpretación de los resultados y visualización.
